@@ -7,7 +7,7 @@
     <title>PHP Variables</title>
 </head>
 <body>
-    <h1>PHP Varibales</h1>
+    <h1>PHP Variales</h1>
     <?php
     $name = "Faisal Zamir";
     echo $name;
